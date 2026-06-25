@@ -87,6 +87,3 @@ pyinstaller --onefile --windowed app.py
 - **Phase 3** — Reader, PDF ↔ Word
 - **Phase 4** — Forms, digital signatures
 
-## License
-
-Not yet specified.
